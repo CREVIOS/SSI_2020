@@ -1,0 +1,85 @@
+naics_code,industry,total,net_electricity,natural_gas,coal,other
+311,Food,1113,72331,556,5,154
+3112,Grain and Oilseed Milling,280,14591,130,3,30
+311221,Wet Corn Milling,138,6461,46,2,13
+31131,Sugar Manufacturing,174,1224,15,2,106
+3114,Fruit and Vegetable Preserving and Specialty Food,144,9551,103,NA,3
+3115,Dairy Product,110,10350,67,NA,2
+3116,Animal Slaughtering and Processing,199,18173,122,NA,3
+312,Beverage and Tobacco Products,95,9808,47,NA,4
+3121,Beverages,86,8868,42,NA,4
+3122,Tobacco,9,940,5,NA,NA
+313,Textile Mills,97,12586,35,NA,12
+314,Textile Product Mills,28,2748,16,NA,NA
+315,Apparel,5,803,2,0,NA
+316,Leather and Allied Products,3,316,1,0,NA
+321,Wood Products,386,21308,48,NA,248
+321113,Sawmills,123,5001,6,NA,95
+3212,"Veneer, Plywood, and Engineered Woods",161,7377,28,NA,104
+321219,Reconstituted Wood Products,97,4926,20,NA,58
+3219,Other Wood Products,94,8541,13,0,NA
+322,Paper,2087,56017,424,7,1288
+322110,Pulp Mills,255,1345,29,NA,216
+322121,"Paper Mills, except Newsprint",751,17321,156,4,427
+322122,Newsprint Mills,59,8206,8,NA,22
+322130,Paperboard Mills,915,16108,183,2,618
+323,Printing and Related Support,90,14219,38,0,NA
+324,Petroleum and Coal Products,4168,48904,1041,NA,NA
+324110,Petroleum Refineries,3372,46871,972,NA,2168
+324121,Asphalt Paving Mixture and Block,430,933,42,0,377
+324122,Asphalt Shingle and Coating Materials,NA,730,10,NA,NA
+324199,Other Petroleum and Coal Products,NA,-316,8,NA,NA
+325,Chemicals,6297,134327,2426,11,1043
+325110,Petrochemicals,1110,5810,301,0,NA
+325120,Industrial Gases,185,19971,121,0,3
+325180,Other Basic Inorganic Chemicals,375,23213,156,2,NA
+325193,Ethyl Alcohol,491,11306,353,4,8
+325194,"Cyclic Crudes, Intermediate and Gum and Wood Chemicals",42,2998,24,0,7
+325199,Other Basic Organic Chemicals,1414,16805,461,3,342
+325211,Plastics Materials and Resins,1775,16934,412,1,418
+325212,Synthetic Rubber,34,1127,19,NA,10
+325220,Artificial and Synthetic Fibers and Filaments,35,3217,13,NA,NA
+325311,Nitrogenous Fertilizers,NA,3832,372,0,NA
+325312,Phosphatic Fertilizers,36,1998,24,NA,NA
+3254,Pharmaceuticals and Medicines,94,10671,49,NA,4
+325412,Pharmaceutical Preparation,47,5617,21,NA,3
+325992,"Photographic Film, Paper, Plate, and Chemicals",9,993,4,0,2
+326,Plastics and Rubber Products,295,55631,88,NA,NA
+327,Nonmetallic Mineral Products,833,37498,324,11,99
+327120,Clay Building Material and Refractories,43,1502,34,NA,1
+327211,Flat Glass,62,1657,45,NA,9
+327212,Other Pressed and Blown Glass and Glassware,32,2237,24,0,NA
+327213,Glass Containers,58,3544,45,0,NA
+327215,Glass Products from Purchased Glass,23,3347,11,NA,NA
+327310,Cements,300,11008,20,7,68
+327410,Lime,105,1461,6,3,18
+327420,Gypsum,53,1368,46,0,NA
+327993,Mineral Wool,33,3207,20,0,1
+331,Primary Metals,1641,127040,669,NA,NA
+331110,Iron and Steel Mills and Ferroalloys,1101,59867,430,NA,NA
+3312,Steel Products from Purchased Steel,58,6557,27,NA,7
+3313,Alumina and Aluminum,254,34380,117,0,15
+331314,Secondary Smelting and Alloying of Aluminum,20,847,16,0,NA
+331315,"Aluminum Sheet, Plate and Foils",62,4494,44,0,2
+331318,"Other Aluminum Rolling, Drawing and Extruding",21,1741,14,0,NA
+3314,"Nonferrous Metals, except Aluminum",109,13017,41,NA,10
+331410,Nonferrous Metal (except Aluminum) Smelting and Refining,52,7785,16,NA,4
+3315,Foundries,119,13219,54,NA,NA
+331511,Iron Foundries,54,6047,16,NA,NA
+331523,Nonferrous Metal Die-Casting Foundries,24,2105,16,0,NA
+331524,"Aluminum Foundries, except Die-Casting",11,793,8,0,NA
+332,Fabricated Metal Products,349,41869,188,NA,NA
+333,Machinery,165,23424,72,NA,1
+334,Computer and Electronic Products,162,32820,46,0,NA
+334413,Semiconductors and Related Devices,90,19106,24,0,1
+335,"Electrical Equip., Appliances, and Components",74,11764,26,0,5
+336,Transportation Equipment,323,45185,145,NA,9
+336111,Automobiles,33,3623,18,NA,1
+336112,Light Trucks and Utility Vehicles,39,3574,24,NA,2
+3364,Aerospace Product and Parts,69,9417,29,0,5
+336411,Aircraft,23,3197,10,0,NA
+337,Furniture and Related Products,37,5072,14,NA,4
+339,Miscellaneous,57,8466,25,0,NA
+NA,Subtotal,18306,762136,6232,57,5672
+NA,Miscellaneous Nonfuel Products(i),529,0,0,0,529
+NA,Total,18835,762136,6232,57,6201
