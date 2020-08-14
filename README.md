@@ -61,3 +61,13 @@ After you're done developing, the easiest (and free) way to deploy your app to t
 
 Community
 Whether you're happy with how this turns out or need help at any step along the way, don't be shy, and post in the Ed discussion board with questions, or simply to show off your app to others! Good luck, and remember to help each other out along the way.
+
+
+#### Eric Zang Website : https://www.ekzhang.com/
+1. https://www.hackerrank.com/pwshpc-online-round
+2. https://www.aapt.org/physicsteam/2020/pastexams.cfm
+3. https://ekzlib.herokuapp.com/home
+4. https://setwithfriends.com/ 
+5. https://www.reddit.com/r/dailyprogrammer/
+6. https://insights.stackoverflow.com/survey/2020
+####### ekzhang@college.harvard.edu <ekzhang@college.harvard.edu>;
