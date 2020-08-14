@@ -70,4 +70,4 @@ Whether you're happy with how this turns out or need help at any step along the 
 4. https://setwithfriends.com/ 
 5. https://www.reddit.com/r/dailyprogrammer/
 6. https://insights.stackoverflow.com/survey/2020
-####### ekzhang@college.harvard.edu <ekzhang@college.harvard.edu>;
+### ekzhang@college.harvard.edu <ekzhang@college.harvard.edu>;
