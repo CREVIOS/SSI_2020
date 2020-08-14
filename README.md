@@ -32,3 +32,32 @@ Although this book requires a lot of knowledge, it’s really interesting too.
 Statistical Inference (https://www.amazon.com/Statistical-Inference-George-Casella/dp/8131503941/ref=sr_1_2?dchild=1&keywords=casella+and+berger&qid=1596196019&s=books&sr=1-2) is also an interesting field, and builds more on the decision theory that we talked about. 
 
 If you’re interested in causality, I don’t have that many recommendations, although The Book of Why (https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X) is a good resource. Perhaps the econometric literature (http://www.econometricsbooks.com/) is a good resource. 
+
+
+## Learning Rust
+Learning Rust
+Thanks for participating in my masterclass! I hope you took away something useful about building your own applications, learning new programming languages, and all the tools involved in the process.
+
+Here's a step-by-step guide with optional activities if you want to continue down this track:
+
+Sign up for a free account on Exercism, which has over 3,000 exercises for learning all sorts of programming languages (Rust, Java, C++, Go, and 50+ more), along with free mentorship.
+
+Solve the first 5 exercises on the Rust track.
+
+Continue along the Exercism guide in order of exercises (they build on each other!), consulting the Rust Book when necessary.
+
+One of the advantages of Exercism is that while other tools have you code in a browser, Exercism encourages you to work on your own computer, so you learn how to set up an environment that you will actually use when developing real applications.
+
+Building an App
+Once you feel comfortable with Rust, I encourage you to download the source files : https://drive.google.com/drive/folders/18BXADb_WdutnrdveOmvfchjeulr0195q?usp=sharing  of the apps we built today. Remember that to run your code, you simply need to use the cargo run command inside the project folder. Try extending asciihero with new functionality! Some suggestions (in rough order of difficulty):
+
+Print out all permutations of a word in ascii text, so Hello => "Hello, elloH, lloHe, loHel, oHell".
+
+Allow users to print out text with different ascii fonts : http://www.figlet.org/examples.html.
+
+Create a live chatroom that allows users to talk to each other, in ascii art font. (You will need state : https://actix.rs/docs/extractors/#application-state-extractor for this.)
+
+After you're done developing, the easiest (and free) way to deploy your app to the public web is by using Heroku. You can find detailed instructions here : https://github.com/emk/heroku-buildpack-rust#using-this-buildpack
+
+Community
+Whether you're happy with how this turns out or need help at any step along the way, don't be shy, and post in the Ed discussion board with questions, or simply to show off your app to others! Good luck, and remember to help each other out along the way.
