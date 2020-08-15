@@ -71,3 +71,12 @@ Whether you're happy with how this turns out or need help at any step along the 
 5. https://www.reddit.com/r/dailyprogrammer/
 6. https://insights.stackoverflow.com/survey/2020
 ### ekzhang@college.harvard.edu <ekzhang@college.harvard.edu>;
+
+#### Neural Netwrok 
+Convolutional neural networks (CNNs) are commonly used in computer vision (image recognition). The network is able to recognize local features within different areas of the image (like edges of a shape) and can synthesize these observations into a classification algorithm. AlexNet is one example.
+
+Recurrent neural networks (RNNs) are commonly used in natural language processing. For example, you can feed it words from a sentence in order, and it can perform tasks like topic classification, sentiment classification, or it can predict the next words to follow. The autocomplete word options on a smartphone use this idea to some extent.
+
+Generative adversarial networks (GANs) are used to generate convincing examples of some form of data. You saw an example of it in the website of fake human faces. This approach is actually composed of two networks: the generator and the discriminator. Given a dataset of real examples (e.g. real pictures of people), the generator learns to produce fake examples, while the discriminator learns to identify which images are real and which were produced by the generator. As the generator improves, the discriminator becomes more discerning, and the generator must further improve in turn.
+
+Note that I only listed the general uses of these architectures. Deep learning allows for a wide range of creative applications of neural networks to problems. For example, RNNs can be used to analyze music scores, and CNNs/fully-connected networks can be used to make decisions in playing a game.
