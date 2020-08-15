@@ -80,3 +80,13 @@ Recurrent neural networks (RNNs) are commonly used in natural language processin
 Generative adversarial networks (GANs) are used to generate convincing examples of some form of data. You saw an example of it in the website of fake human faces. This approach is actually composed of two networks: the generator and the discriminator. Given a dataset of real examples (e.g. real pictures of people), the generator learns to produce fake examples, while the discriminator learns to identify which images are real and which were produced by the generator. As the generator improves, the discriminator becomes more discerning, and the generator must further improve in turn.
 
 Note that I only listed the general uses of these architectures. Deep learning allows for a wide range of creative applications of neural networks to problems. For example, RNNs can be used to analyze music scores, and CNNs/fully-connected networks can be used to make decisions in playing a game.
+
+
+### Getting Satrted
+1. Graphics : http://cs248.stanford.edu/winter20/
+2. System  : http://web.stanford.edu/class/cs107/
+3. Security : https://cs155.stanford.edu/
+4. Compter Vision : http://cs231n.stanford.edu/
+5. NLP : http://web.stanford.edu/class/cs224n/
+6. Theory : http://web.stanford.edu/class/cs106b/
+7. ML (classical) : http://cs229.stanford.edu/
