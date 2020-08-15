@@ -84,9 +84,14 @@ Note that I only listed the general uses of these architectures. Deep learning a
 
 ### Getting Satrted
 1. Graphics : http://cs248.stanford.edu/winter20/
+- https://www.facebook.com/OculusQuestVR/
+- https://www.magicleap.com/en-us/magic-leap-1
+- https://www.microsoft.com/en-us/hololens
 2. System  : http://web.stanford.edu/class/cs107/
 3. Security : https://cs155.stanford.edu/
 4. Compter Vision : http://cs231n.stanford.edu/
 5. NLP : http://web.stanford.edu/class/cs224n/
+- https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04
+- https://www.microsoft.com/en-us/translator/business/machine-translation/
 6. Theory : http://web.stanford.edu/class/cs106b/
 7. ML (classical) : http://cs229.stanford.edu/
